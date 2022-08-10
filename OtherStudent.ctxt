@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=OtherStudent
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ OtherStudent\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ stNumber\ partMark\ examMark\ projectMark
+comment1.target=OtherStudent(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getProjectMark()
+comment3.params=
+comment3.target=double\ getFinalMark()
+comment4.params=projectMark
+comment4.target=void\ setProjectMark(int)
+comment5.params=
+comment5.target=double\ calcFinalMark()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=name\ stNumber\ partMark\ examMark
+comment1.target=Student(java.lang.String,\ java.lang.String,\ int,\ int)
+comment10.params=s
+comment10.target=int\ compareTo(Student)
+comment11.params=
+comment11.target=double\ calcFinalMark()
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getStNumber()
+comment4.params=
+comment4.target=int\ getPartMark()
+comment5.params=
+comment5.target=int\ getExamMark()
+comment6.params=name
+comment6.target=void\ setName(java.lang.String)
+comment7.params=stNumber
+comment7.target=void\ setStNumber(java.lang.String)
+comment8.params=partMark
+comment8.target=void\ setPartMark(int)
+comment9.params=examMark
+comment9.target=void\ setExamMark(int)
+numComments=13

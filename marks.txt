@@ -1,0 +1,8 @@
+Sam Johnson,17678904,45,67,5
+Jenny Levine,23456779,45,50,30
+Graham Petersen,23178992,67,78,70
+Lee Sithole,32345114,50,60,35
+Diane Mokaba,19267890,47,40,5
+Henry Smith,12387567,80,90,10
+Elizabeth Mofokeng,23476589,69,71,63
+Frank Dala,17698234,49,38,6
